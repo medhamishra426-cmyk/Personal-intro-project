@@ -36,5 +36,5 @@ Welcome, Medha!
 You are 19 years old and you love exploring nature.
 We're happy to have you here. Have a great day!
 
-Screenshot.png
-https://docs.google.com/document/d/104o1OJ_Q-wB6JRfUEi-aXhTi8LEo4pItGi8g45YMTQg/edit?usp=drivesdk
+
+
