@@ -29,3 +29,12 @@ No extra packages are needed. See `requirements.txt`.
 - `screenshot.png`: sample run of the program in Google Colab
 
 ## Sample Output
+What is your name? Medha
+How old are you? 19
+What is your favorite hobby? exploring nature
+Welcome, Medha!
+You are 19 years old and you love exploring nature.
+We're happy to have you here. Have a great day!
+
+Screenshot.png
+https://docs.google.com/document/d/104o1OJ_Q-wB6JRfUEi-aXhTi8LEo4pItGi8g45YMTQg/edit?usp=drivesdk
